@@ -1,0 +1,85 @@
+html{
+    background-color: lightgrey;
+    margin-left: 20px;
+    
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2{
+    margin-bottom: 30px;
+}
+h3{
+    margin: 0px;
+    margin-left: 115px;
+}
+
+p{
+    font-style: italic;
+    font-size: 10pt;
+    
+}
+
+li{
+    font-size: 14pt;
+    margin-left: 100px;
+}
+
+#toppOnskningar{
+    text-align: center;
+}
+
+#top1 {
+    border: 2px solid black;
+    padding: 15px;
+    text-align: center;
+    width: 250px;
+    background-color: aliceblue;
+    display: inline-block;
+    max-height: fit-content;
+
+}
+
+#top2{
+    border: 2px solid black;
+    padding: 15px;
+    text-align: center;
+    width: 250px;
+    background-color: aliceblue;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#top3{
+    border: 2px solid black;
+    padding: 15px;
+    text-align: center;
+    width: 250px;
+    height: ;
+    background-color: aliceblue;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#top4{
+    border: 2px solid black;
+    padding: 15px;
+    text-align: center;
+    width: 250px;
+    height: ;
+    background-color: aliceblue;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+img {
+   width: 100%
+}
+
+hr{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
