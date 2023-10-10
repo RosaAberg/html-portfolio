@@ -32,7 +32,7 @@ li{
     text-align: center;
 }
 
-#top1 {
+.toppkort{
     border: 2px solid black;
     padding: 15px;
     text-align: center;
@@ -40,39 +40,6 @@ li{
     background-color: aliceblue;
     display: inline-block;
     max-height: fit-content;
-
-}
-
-#top2{
-    border: 2px solid black;
-    padding: 15px;
-    text-align: center;
-    width: 250px;
-    background-color: aliceblue;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-#top3{
-    border: 2px solid black;
-    padding: 15px;
-    text-align: center;
-    width: 250px;
-    height: ;
-    background-color: aliceblue;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-#top4{
-    border: 2px solid black;
-    padding: 15px;
-    text-align: center;
-    width: 250px;
-    height: ;
-    background-color: aliceblue;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 img {
