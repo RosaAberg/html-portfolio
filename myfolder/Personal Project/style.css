@@ -9,7 +9,10 @@ html{
         margin-bottom: 30px;
     }
     li{
-        text-align: center;
+        margin-left: 30px;
+    }
+    h3{
+        margin-left: 30px;
     }
 }
 
