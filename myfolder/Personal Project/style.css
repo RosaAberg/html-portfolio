@@ -3,6 +3,11 @@ html{
     margin-left: 20px;
     
 }
+@media (max-width: 400px){
+    .toppkort{
+        display: block;
+    }
+}
 
 h1{
     text-align: center;
