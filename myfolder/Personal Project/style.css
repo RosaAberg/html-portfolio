@@ -25,19 +25,20 @@ h2{
     margin-bottom: 30px;
 }
 h3{
-    margin: 0px;
+
     margin-left: 115px;
 }
 
 p{
     font-style: italic;
     font-size: 10pt;
-    
+    margin-top: 20px;
 }
 
-li{
+ul{
     font-size: 14pt;
     margin-left: 100px;
+    
 }
 
 #toppOnskningar{
