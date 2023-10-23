@@ -13,12 +13,13 @@ h1{
     margin-bottom: 40px;
     color: #FFF0F5;
     font-family: 'Libre Baskerville', serif;
-    
+    position: ;
 }
 
 .h1transform{
     color: palevioletred;
 }
+
 hr{
    margin-left: -20px; 
 }
