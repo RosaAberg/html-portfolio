@@ -1,6 +1,6 @@
 html{
     background-color: #301934;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto', sans-serif;
     margin-left: 20px;
     color: white;
        
@@ -12,6 +12,7 @@ h1{
     text-transform: uppercase;
     margin-bottom: 40px;
     color: #FFF0F5;
+    font-family: 'Libre Baskerville', serif;
     
 }
 
@@ -30,7 +31,6 @@ margin-top: 80px;
     width: 200px;
     float: left;
     border-radius: 50%;
-
 }
 
 ul{
@@ -54,16 +54,25 @@ ul{
 .second{
     position: relative;
     left: 600px;
-    top: -20px;
+    top: -60px;
 }
 .third{
     position: relative;
     left: 950px;
-    top: -20px;
+    top: -120px;
 }
 
 p{
     margin-right: 100px;
     text-align: justify;
-
+    font-family: 'Roboto', sans-serif;
 }
+
+.story{
+    margin-bottom: 60px;
+}
+
+.storyTitle{
+    margin-top: 0%;
+}
+
