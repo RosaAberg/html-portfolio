@@ -3,6 +3,10 @@ html{
     color: #FFF0F5;
 }
 
+.mainSection{
+    margin-left: 20px;
+}
+
 .heading{
     background-image: url(./Assets/background\ image\ 7.jpg);
     background-size: cover;
@@ -31,6 +35,10 @@ h1{
     margin-top: 60px;
 }
 
+.intro p{
+    
+}
+
 li{
     color: #FFF0F5;
 }
@@ -38,4 +46,15 @@ li{
 .link{
     color: #FFF0F5;
     font-size: 16pt;
+}
+
+.card{
+    display: inline-block;
+    text-align: center;
+    border-style: solid;
+    padding: 10px;
+    display: inline-block;
+}
+.cardTitle{
+    color: #FFF0F5;
 }
