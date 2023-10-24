@@ -1,6 +1,7 @@
 html{
     background-color: #204b53;
     color: #FFF0F5;
+    font-family: 'Roboto', sans-serif;
 }
 
 .mainSection{
@@ -36,25 +37,26 @@ h1{
 }
 
 .intro p{
-    
+    text-align: justify;
+    width: 1000px;
 }
 
-li{
-    color: #FFF0F5;
+.projects{
+    margin-top: 50px;
 }
 
 .link{
     color: #FFF0F5;
-    font-size: 16pt;
+    font-size: 14pt;
 }
 
 .card{
     display: inline-block;
     text-align: center;
     border-style: solid;
-    padding: 10px;
+    border-width: 1px;
+    padding: 20px 20px 0px;
     display: inline-block;
-}
-.cardTitle{
-    color: #FFF0F5;
+    margin-right: 20px;
+    background-color:#0dad8d49;
 }
