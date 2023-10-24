@@ -18,11 +18,11 @@ html{
 }
 
 h1{
-    text-align: left;
     font-size: 80pt;
     text-transform: uppercase;
     margin-bottom: 40px;
     margin-top: 40px;
+    margin-left: 0px;
     color: #FFF0F5;
     font-family: 'Libre Baskerville', serif;
 }
