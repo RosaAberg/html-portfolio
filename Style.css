@@ -1,11 +1,15 @@
+html{
+    background-color: #204b53;
+    color: #FFF0F5;
+}
 
 .heading{
-    background-image: url(./Assets/background\ image\ 3.jpg);
+    background-image: url(./Assets/background\ image\ 7.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 110px;
-    margin-left: -40px;
-    
+    margin-left: -10px;
+   
 }
 
 h1{
@@ -22,6 +26,16 @@ h1{
     color: #ECBD00;
 }
 
+.mainSection{
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
 li{
-    color: rgb(5, 0, 0);
+    color: #FFF0F5;
+}
+
+.link{
+    color: #FFF0F5;
+    font-size: 16pt;
 }
