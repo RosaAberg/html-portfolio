@@ -36,6 +36,10 @@ h1{
     margin-top: 60px;
 }
 
+h2{
+    color: #ECBD00;
+}
+
 .intro p{
     text-align: justify;
     width: 1000px;
@@ -60,3 +64,10 @@ h1{
     margin-right: 20px;
     background-color:#0dad8d49;
 }
+
+footer{
+    text-align: right;
+    color: #ECBD00;
+    margin-top: 60px;
+}
+
