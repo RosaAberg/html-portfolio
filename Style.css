@@ -5,7 +5,8 @@ html{
 }
 
 .mainSection{
-    margin-left: 20px;
+    margin-left: 50px;
+    margin-top: 60px;
 }
 
 .heading{
@@ -31,10 +32,6 @@ h1{
     color: #ECBD00;
 }
 
-.mainSection{
-    margin-left: 50px;
-    margin-top: 60px;
-}
 
 h2{
     color: #ECBD00;
