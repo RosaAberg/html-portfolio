@@ -1,7 +1,6 @@
 
 html{
-    background-color: blue;
-    color: azure;
+    
 }
 
 body{
@@ -9,11 +8,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(./assets/sunrise-serene-lake-with-mist-floating-water-created-with-generative-ai_124507-174620.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: azure;
 }
 
 
 .signup-form{
-    background-color: #f0f8ff80;
+    background-color: #0a457870;
     height: 50vh;
     width: 50vh;
     display: flex;
