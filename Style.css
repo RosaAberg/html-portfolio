@@ -1,12 +1,11 @@
 html{
     background-color: #204b53;
-    color: #FFF0F5;
-    font-family: 'Roboto', sans-serif;
 }
 
-.mainSection{
-    margin-left: 50px;
-    margin-top: 60px;
+body{
+margin: 0px;
+color: #FFF0F5;
+font-family: 'Roboto', sans-serif;
 }
 
 .heading{
@@ -14,8 +13,6 @@ html{
     background-size: cover;
     background-repeat: no-repeat;
     padding: 110px;
-    margin-left: -10px;
-   
 }
 
 h1{
@@ -23,7 +20,6 @@ h1{
     text-transform: uppercase;
     margin-bottom: 40px;
     margin-top: 40px;
-    margin-left: 0px;
     color: #FFF0F5;
     font-family: 'Libre Baskerville', serif;
 }
@@ -32,6 +28,10 @@ h1{
     color: #ECBD00;
 }
 
+.mainSection{
+    margin-left: 50px;
+    margin-top: 60px;
+}
 
 h2{
     color: #ECBD00;
