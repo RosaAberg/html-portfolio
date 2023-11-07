@@ -38,6 +38,7 @@ h1{
 
 h2{
     color: #ECBD00;
+    margin-top: 40px;
 }
 
 .intro p{
@@ -46,7 +47,12 @@ h2{
 }
 
 .projects{
-    margin-top: 50px;
+    margin-top: 10px;
+    width: 80vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 15px;
 }
 
 .link{
@@ -55,13 +61,10 @@ h2{
 }
 
 .card{
-    display: inline-block;
     text-align: center;
     border-style: solid;
     border-width: 1px;
     padding: 20px 20px 0px;
-    display: inline-block;
-    margin-right: 20px;
     background-color:#0dad8d49;
 }
 
