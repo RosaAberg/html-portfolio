@@ -3,9 +3,9 @@ html{
 }
 
 body{
-margin: 0px;
-color: #FFF0F5;
-font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    color: #FFF0F5;
+    font-family: 'Roboto', sans-serif;
 }
 
 .heading{
@@ -20,7 +20,6 @@ h1{
     text-transform: uppercase;
     margin-bottom: 40px;
     margin-top: 40px;
-    color: #FFF0F5;
     font-family: 'Libre Baskerville', serif;
 }
 
@@ -52,11 +51,6 @@ h2{
     gap: 15px;
 }
 
-.link{
-    color: #FFF0F5;
-    font-size: 14pt;
-}
-
 .card{
     text-align: center;
     border-style: solid;
@@ -65,9 +59,19 @@ h2{
     background-color:#0dad8d49;
 }
 
+.link{
+    color: #FFF0F5;
+    font-size: 14pt;
+}
+
+.link:hover{
+    color: #ECBD00;
+}
+
 footer{
     text-align: right;
     color: #ECBD00;
     margin-top: 60px;
+    margin-right: 20px;
 }
 
